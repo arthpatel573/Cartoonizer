@@ -12,3 +12,15 @@ Installation is easy as usual!
 $ pip install requirements.txt
 ```
 
+## Run the program:
+
+```
+python cartoonizer.py
+```
+
+## Sample Output:
+
+![](image_data/output_cartoonizer.jpg)
+
+
+
